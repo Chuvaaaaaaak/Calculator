@@ -1,4 +1,4 @@
-package com.company;
+package ru.spitsyn.calculator;
 
 import java.io.IOException;
 

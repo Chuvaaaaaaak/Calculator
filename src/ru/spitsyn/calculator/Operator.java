@@ -1,7 +1,4 @@
-package com.company;
-import com.company.Abstract;
-import com.company.Arab;
-import com.company.Rim;
+package ru.spitsyn.calculator;
 
 public class Operator {
     Chek one;

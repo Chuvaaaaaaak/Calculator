@@ -1,4 +1,4 @@
-package com.company;
+package ru.spitsyn.calculator;
 
 public class Arab extends Abstract {
     public Arab(int value) {

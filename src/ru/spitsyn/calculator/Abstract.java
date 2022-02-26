@@ -1,4 +1,4 @@
-package com.company;
+package ru.spitsyn.calculator;
 
 
 public abstract class Abstract {
